@@ -1,2 +1,2 @@
-# elegantwriting-child
-child theme of elegantwriting
+# cenote-child
+child theme of cenote
